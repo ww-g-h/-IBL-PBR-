@@ -1,0 +1,2 @@
+Include filter=lfs diff=lfs merge=lfs -text
+Libs filter=lfs diff=lfs merge=lfs -text
